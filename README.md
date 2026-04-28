@@ -32,15 +32,15 @@ Machine Learning (Random Forest)
 Due to large file size, the complete dataset is hosted externally.
 📁 Full Dataset: https://drive.google.com/drive/folders/1xiCiQDGsM5RL4mecYJwYKdTM6CrTZLlJ?usp=sharing
 
-#### Project Workflow
-# 1. Data Cleaning (Python)
+## Project Workflow
+### 1. Data Cleaning (Python)
 Handled missing values (Customer ID)
 Removed invalid records (negative quantity & price)
 Removed duplicates
 Standardized date formats
 
 
-# 2. Data Modeling
+### 2. Data Modeling
 
 Created structured tables:
 Customers
@@ -48,20 +48,20 @@ Orders
 Products
 Order Items
 
-# 3. SQL Analysis
+### 3. SQL Analysis
 Revenue calculation
 Monthly revenue trends
 Top customers & products
 Country-level performance
 Running totals and ranking
 
-# 4. RFM Segmentation
+### 4. RFM Segmentation
 Recency (last purchase)
 Frequency (number of orders)
 Monetary (total spending)
 --- Customers categorized into value-based segments for business targeting.
 
-# 5. Churn Prediction (Machine Learning)
+### 5. Churn Prediction (Machine Learning)
 Built Random Forest model
 Predicted customer churn
 Identified at-risk customers
@@ -73,14 +73,14 @@ Identified at-risk customers
 -Customer segmentation (RFM)
 -Order status and performance analysis
 
-### Key Insights
+## Key Insights
 -High-value customers contribute the majority of revenue
 -Certain countries dominate sales performance
 -Sales show clear seasonal patterns
 -Customer segmentation enables targeted retention strategies
 
 
-#### Outcome
+## Outcome
 
 This project demonstrates how combining data analytics and machine learning can drive better business decisions, improve customer retention, and enhance overall performance.
 
