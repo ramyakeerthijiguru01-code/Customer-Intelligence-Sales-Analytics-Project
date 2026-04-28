@@ -12,7 +12,6 @@ This project presents an end-to-end data analytics solution using retail transac
 * Predict customer churn using machine learning
 * Build an interactive dashboard for decision-making
 
----
 
 ## Tech Stack
 
@@ -21,7 +20,6 @@ This project presents an end-to-end data analytics solution using retail transac
 * **Power BI**
 * **Machine Learning** (Random Forest)
 
----
 
 ## Project Workflow
 
@@ -84,9 +82,11 @@ This project presents an end-to-end data analytics solution using retail transac
 
 ## Dashboard Preview
 
-<img width="1414" height="785" alt="image" src="https://github.com/user-attachments/assets/479a3b26-62f6-41d7-812c-31b7a4245349" />
+<img width="1439" height="844" alt="image" src="https://github.com/user-attachments/assets/de1f47ac-5eb3-424c-93b2-287d5055600b" />
 
-<img width="1460" height="807" alt="image" src="https://github.com/user-attachments/assets/e49ffe6b-ece5-4045-8b49-9d93fcd5c832" />
+
+
+<img width="1432" height="857" alt="image" src="https://github.com/user-attachments/assets/9c2aa5fa-e7fd-44d6-95de-e7ce8a5e6c08" />
 
 
 
